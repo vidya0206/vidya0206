@@ -7,8 +7,7 @@
 
 - 🔭 I’m currently, actively searching **an opportunity in full stack development**
 
-- 📫 How to reach me
-- **vidyasagar.katam@gmail.com**
+- 📫 How to reach me : **vidyasagar.katam@gmail.com**
   
 
 - ⚡ Fun fact **I think I am funny 😊**
