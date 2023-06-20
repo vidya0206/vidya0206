@@ -1,14 +1,23 @@
 ![logo](https://github.com/vidya0206/vidya0206/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Vidya sagar</h1>
 <h3 align="center">A passionate full-stack developer from New Zealand</h3>
+<h4 align="center">🔭 I’m currently, actively searching **an opportunity in full stack development**</h4>
 
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidya0206&label=Profile%20views&color=0e75b6&style=flat" alt="vidya0206" /> </p>
 
-- 🔭 I’m currently, actively searching **an opportunity in full stack development**
 
-- 📫 How to reach me : **vidyasagar.katam@gmail.com**
-  
+<h3 align="center">🔘📹 Here's a bit more about myself.</h3>
+
+👉 As a passionate and dedicated Full Stack Developer, I am driven to contribute my skills and knowledge to create innovative and user-friendly web applications. With a solid foundation in both front-end and back-end technologies, I possess a strong understanding of **HTML, CSS, JavaScript**, and various frameworks such as **React** and **Node.js**.
+
+👉 Proficient in implementing **Agile** methodology, effectively utilizing Jira board for streamlined project management and efficient team collaboration
+
+👉 Utilized **GitHub** as a version control system and code repository for effective collaboration, code sharing, and seamless integration with development workflows.
+
+👉 Apart from technical expertise, I possess excellent problem-solving abilities and have a keen eye for detail. I am a strong believer in the power of teamwork and communication, which I consider essential for successful project execution. I am eager to contribute to a dynamic organization that values innovation and offers opportunities for growth and learning.
+
+- 📫 How to reach me: **vidyasagar.katam@gmail.com** 
 
 - ⚡ Fun fact **I think I am funny 😊**
 
