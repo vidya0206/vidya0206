@@ -1,4 +1,4 @@
-![logo](https://github.com/vidya0206/vidya0206/blob/main/banner.png)
+![logo](https://github.com/vidya0206/vidya0206/blob/main/bannerr.png)
 <h1 align="center">Hi 👋, I'm Vidya sagar</h1>
 <h3 align="center">A passionate front-end developer from New Zealand</h3>
 <h4 align="center">🔭 I’m currently, actively searching **an opportunity in front-end development**</h4>
