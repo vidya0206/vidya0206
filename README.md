@@ -1,7 +1,7 @@
 ![logo](https://github.com/vidya0206/vidya0206/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Vidya sagar</h1>
-<h3 align="center">A passionate full-stack developer from New Zealand</h3>
-<h4 align="center">🔭 I’m currently, actively searching **an opportunity in full stack development**</h4>
+<h3 align="center">A passionate front-end developer from New Zealand</h3>
+<h4 align="center">🔭 I’m currently, actively searching **an opportunity in front-end development**</h4>
 
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidya0206&label=Profile%20views&color=0e75b6&style=flat" alt="vidya0206" /> </p>
